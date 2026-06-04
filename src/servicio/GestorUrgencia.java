@@ -75,7 +75,7 @@ public class GestorUrgencia {
     }
 
     
-    // 5. Ver historial con Deque con peek()
+    // 5. Ver historial coDeque con peek()
 
     public void verHistorial() {
         System.out.println("\n  === HISTORIAL — Deque (" + historial.size() + ") ===");
